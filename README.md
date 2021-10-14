@@ -1,2 +1,2 @@
 # c-projects
-Programs written in C
+Mini-projetos escritos em C
